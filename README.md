@@ -19,7 +19,7 @@ Quick links:
 
 [Email]:mailto:karakostas.georgios@gmail.com
 [LinkedIn]:https://www.linkedin.com/in/geokarak/
-[Twitter]:https://twitter.com/georgioskarak/
+[Twitter]:https://twitter.com/geokarak_/
 [Photography]:https://www.georgios-karakostas.com/
 
 **I am a mathematician by training and a photographer by heart, with nearly two years of professional experience in the field of Data Science and strong skills in data wrangling, model development and data visualization.**
