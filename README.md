@@ -22,7 +22,7 @@ Quick links:
 [Twitter]:https://twitter.com/geokarak_/
 [Photography]:https://www.georgios-karakostas.com/
 
-**I am a mathematician by training and a photographer by heart, with two years of professional experience in the field of Data Science.**
+**I am a mathematician by training and a photographer by heart, with over two years of professional experience in the field of Data Science.**
 
 <!--
 One can link directly to the raw version of an image if it's stored in the related GitHub repo.
